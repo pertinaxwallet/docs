@@ -3,7 +3,7 @@ title: Core description
 sidebar_position: 0
 ---
 
-# TIP-5 Standard Interface Detection
+# Interface Detection (TIP-5)
 
 ## Abstract
 

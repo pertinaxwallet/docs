@@ -3,7 +3,7 @@ title: Core description
 sidebar_position: 0
 ---
 
-# TIP-3 Fungible Token Standard
+# Fungible Token (TIP-3)
 
 ## Abstract
 
